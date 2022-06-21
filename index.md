@@ -5,7 +5,7 @@
 </h1>
 </head>
 </html>
-<css>
+<style>
 button{
   color:white;
   background-color:#407ee3;
@@ -27,4 +27,4 @@ button{
 h2{
   color:pink;
 }
-</css>
+</style>
