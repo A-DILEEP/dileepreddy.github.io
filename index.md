@@ -3,5 +3,27 @@
 <h1>
 <button class="butto">DILEEP</button>
 </h1>
-  </head>
+</head>
 </html>
+<style>
+button{
+  color:white;
+  background-color:#407ee3;
+  border:none;
+  margin:12px;
+  height:70px;
+  width:150px;
+  border-radius:35px;
+  cursor:pointer;
+  font-size:30px;
+  font-style:italic;
+}
+.dileep-button:hover {
+  color:red;
+}
+.dileep-button:active{
+  color:green;
+}
+h2{
+  color:pink;
+}
